@@ -1,6 +1,6 @@
 # 01 Installing Domain Controller
 
-1. Use 'scconfig' to:
+1. Use 'sconfig' to:
     - change the hostname
     - change the ip address to static
     - change the dns server to our own ip address
